@@ -7,6 +7,7 @@ These projects are maintained independently and are not affiliated with the ccus
 ## Desktop Applications
 
 - [claude-usage-tracker-for-mac](https://github.com/penicillin0/claude-usage-tracker-for-mac) - macOS menu bar app for tracking Claude usage
+- [Burnbar](https://github.com/tangentlin/burnbar) - macOS menu bar app for Claude Code (and other agent CLI) cost tracking, with a durable usage history archive and Chart.js dashboard (forked from [claude-usage-tracker-for-mac](https://github.com/penicillin0/claude-usage-tracker-for-mac))
 - [ClaudeCode_Dashboard](https://github.com/m-sigepon/ClaudeCode_Dashboard) - Web dashboard with charts and visualizations
 - [Ccusage App](https://github.com/EthanBarlo/ccusage-app) - Native application to display ccusage data in graphs and visualizations
 - [CCOwl](https://github.com/sivchari/ccowl) - A cross-platform status bar application that monitors Claude Code usage in real-time.
